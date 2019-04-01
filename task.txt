@@ -1,0 +1,5 @@
+Hello my dear students). If you read this message it means you understand how it work. As you can see all server control is remote. The next task is to write the server exactly like this. The server must be able todo by requests:
+1) send current date and time;
+2) send the list of file of its own project (all titles of file)
+3) send any photo(I would like to see your photo with wide smile when you write this server)
+Good luck!
